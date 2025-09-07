@@ -2,7 +2,7 @@
 python并发示例代码，悲观锁、乐观锁示例
 
 ```python
-# 本工程的python版本为3.13.3，其中乐观锁依赖了atomics库，需要安装
+# 本工程的python版本为3.13.3，其中乐观锁依赖了atomics库来支持原子操作，需要安装
 pip install atomics
 ```
 
